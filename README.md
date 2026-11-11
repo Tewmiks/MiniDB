@@ -2,7 +2,7 @@
 
 Flash-backend + frontend site
 
-## Requirments
+## Requirements
 - Python 3.10+, Flask, flask-cors
 - HTML/CSS/JS (fetch API)
 
